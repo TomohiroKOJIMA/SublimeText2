@@ -12,6 +12,8 @@
 		"ConvertToUTF8",
 		"GlassIt",
 		"IMESupport",
+		"Markdown Extended",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"Python PEP8 Autoformat",
 		"Python Pep8 Lint",
@@ -20,6 +22,7 @@
 		"SublimeClang",
 		"SublimeREPL",
 		"SublimeRope",
-		"Terminal"
+		"Terminal",
+		"TrailingSpaces"
 	]
 }
