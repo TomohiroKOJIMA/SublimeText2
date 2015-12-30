@@ -1,0 +1,1 @@
+{"description": "C/C++/ObjC/ObjC++ autocompletions and code navigation", "url": "http://github.com/quarnster/SublimeClang", "platforms": ["*"], "version": "1.0.41", "sublime_text": "<3000", "dependencies": []}

@@ -1,0 +1,1 @@
+{"description": "Efficiently format, edit, arrange, and evaluate cells in CSV files", "url": "https://github.com/wadetb/Sublime-Text-Advanced-CSV", "platforms": ["*"], "version": "1.0.8", "sublime_text": "*", "dependencies": []}

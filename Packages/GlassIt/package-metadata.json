@@ -1,0 +1,1 @@
+{"description": "ST plugin to set window to transparent on Windows platform.", "url": "https://github.com/ivellioscolin/sublime-plugin-glassit", "platforms": ["windows"], "version": "1.2.0", "sublime_text": "*", "dependencies": []}

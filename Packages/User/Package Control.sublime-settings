@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ColorSchemeSelector",
+		"ConvertToUTF8",
+		"GlassIt",
+		"IMESupport",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Python Pep8 Lint",
+		"Smart Delete",
+		"SublimeAStyleFormatter",
+		"SublimeClang",
+		"SublimeREPL",
+		"SublimeRope",
+		"Terminal"
+	]
+}
