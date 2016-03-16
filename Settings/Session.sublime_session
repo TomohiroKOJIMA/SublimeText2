@@ -2,10 +2,10 @@
 	"folder_history":
 	[
 	],
-	"last_window_id": 6,
+	"last_window_id": 34,
 	"settings":
 	{
-		"new_window_height": 757.0,
+		"new_window_height": 655.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -13,527 +13,535 @@
 				"selected_items":
 				[
 					[
-						"setVel",
-						"setVel(dof, vel)	(attribute, function)"
+						"part",
+						"part_num"
 					],
 					[
-						"setvel",
-						"setVels(list)	(attribute, function)"
+						"path",
+						"path_root_src"
 					],
 					[
-						"getDon",
-						"getDonsAsBool()	(attribute, function)"
+						"output",
+						"outputDir"
 					],
 					[
-						"vel",
-						"vel_lg	(attribute, instance)"
-					],
-					[
-						"stop",
-						"stopLg()	(attribute, function)"
-					],
-					[
-						"thread",
-						"thread_lg"
-					],
-					[
-						"on_",
-						"on_ctrl_lg"
-					],
-					[
-						"getDons",
-						"getDonsAsBool()	(attribute, function)"
-					],
-					[
-						"lingua",
-						"linguaCtrl	(yarpClient.py)"
-					],
-					[
-						"Vc",
-						"VcFront	(yarpClient.py)"
-					],
-					[
-						"Glo",
-						"GlottisR"
-					],
-					[
-						"Rota",
-						"RotationR"
-					],
-					[
-						"Tongue",
-						"TongueCtb"
-					],
-					[
-						"TOngue",
-						"TongueBt"
-					],
-					[
-						"Tongu",
-						"TongueBt	(yarpClient.py)"
-					],
-					[
-						"tongue",
-						"TongueAr"
-					],
-					[
-						"Lip",
-						"LipMental"
-					],
-					[
-						"getFloa",
-						"getFloatByName	(csvRead.py)"
-					],
-					[
-						"setPos",
-						"setPosByName(name, pos)	(attribute, function)"
-					],
-					[
-						"yarp",
-						"yarp_vt"
-					],
-					[
-						"lg_",
-						"lg_stop_event	(attribute, instance)"
-					],
-					[
-						"setVmo",
-						"setVmoByName(name, vel)	(attribute, function)"
-					],
-					[
-						"set",
-						"setPosByName(name, pos)	(attribute, function)"
-					],
-					[
-						"setPosBy",
-						"setPosByName	(yarpClient.py)"
-					],
-					[
-						"getdon",
-						"getDonAsBool(dof)	(attribute, function)"
-					],
-					[
-						"raw",
-						"raw_input	(builtin, function)"
-					],
-					[
-						"setvm",
-						"setVmoByName(name, vel)	(attribute, function)"
-					],
-					[
-						"y_",
-						"y_vt"
-					],
-					[
-						"getEnc",
-						"getEncAsFloat(dof)	(attribute, function)"
-					],
-					[
-						"in",
-						"in_debug	(yarpClient.py)"
-					],
-					[
-						"ptn",
-						"ptns_vt"
-					],
-					[
-						"dof",
-						"dof_name"
-					],
-					[
-						"getIN",
-						"getIntByName	(csvRead.py)"
-					],
-					[
-						"get",
-						"getPatternById	(csvRead.py)"
-					],
-					[
-						"setPo",
-						"setPos	(yarpClient.py)"
-					],
-					[
-						"patter",
-						"patterns"
-					],
-					[
-						"__n",
-						"__nameToId"
-					],
-					[
-						"di",
-						"dict	(builtin, class)"
-					],
-					[
-						"setP",
-						"setPos	(yarpClient.py)"
-					],
-					[
-						"getEn",
-						"getEncAsFloat	(yarpClient.py)"
-					],
-					[
-						"in_",
-						"in_debug"
-					],
-					[
-						"getA",
-						"getAxesAsInt()	(attribute, function)"
-					],
-					[
-						"geta",
-						"get_axes()	(attribute, function)"
-					],
-					[
-						"__",
-						"__slist_to_flist"
-					],
-					[
-						"en",
-						"enc_list	(attribute, instance)"
-					],
-					[
-						"enc",
-						"enc_list"
-					],
-					[
-						"buf",
-						"bufs	(attribute, instance)"
-					],
-					[
-						"get_a",
-						"get_axes()	(attribute, function)"
-					],
-					[
-						"set_vel",
-						"set_vel(dof, vel)	(attribute, function)"
-					],
-					[
-						"set_ve",
-						"set_vel	(yarpClient.py)"
-					],
-					[
-						"getAll",
-						"getAllPatterns()	(attribute, function)"
-					],
-					[
-						"Patter",
-						"PatternArray	(imported, class)"
-					],
-					[
-						"ec",
-						"except"
-					],
-					[
-						"getCoun",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"setC",
-						"setClearCount()	(attribute, function)"
-					],
-					[
-						"pa",
-						"pattern_cnt"
-					],
-					[
-						"getPa",
-						"getPatternInOrder()	(attribute, function)"
-					],
-					[
-						"getBy",
-						"getByName"
-					],
-					[
-						"getPatt",
-						"getPatternInOrder"
-					],
-					[
-						"getCou",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"getcou",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"patt",
-						"pattern	(attribute, instance)"
-					],
-					[
-						"patte",
-						"pattern_cnt"
-					],
-					[
-						"getHe",
-						"getHeader()	(attribute, function)"
-					],
-					[
-						"getB",
-						"getById"
-					],
-					[
-						"Pa",
-						"Patterns	(attribute, instance)"
-					],
-					[
-						"getN",
-						"getNextPattern()	(attribute, function)"
-					],
-					[
-						"Patt",
-						"Patterns"
-					],
-					[
-						"Cs",
-						"csvRead"
-					],
-					[
-						"getH",
-						"getHeader()	(attribute, function)"
-					],
-					[
-						"Patte",
-						"Pattern	(global, class)"
-					],
-					[
-						"sel",
-						"self	(local, instance)"
-					],
-					[
-						"ne",
-						"next()	(attribute, function)"
-					],
-					[
-						"hea",
-						"head_str"
-					],
-					[
-						"csv",
-						"csvRead"
-					],
-					[
-						"on",
-						"onRec"
-					],
-					[
-						"recS",
-						"recStop()	(attribute, function)"
-					],
-					[
-						"rec",
-						"recStart"
-					],
-					[
-						"ou",
-						"outputChCount	(sample_.py)"
+						"folder",
+						"folder_path"
 					],
 					[
 						"file",
 						"file_name"
 					],
 					[
-						"set_",
-						"set_pos"
+						"folde",
+						"folder_path"
 					],
 					[
-						"get_",
-						"get_enc"
+						"spli",
+						"splitWav(wav_path, num)	(global, function)"
 					],
 					[
-						"clo",
-						"close()	(attribute, function)"
+						"write",
+						"write_wave"
 					],
 					[
-						"setposs",
-						"set_poss(list)	(attribute, function)"
+						"for",
+						"formant"
 					],
 					[
-						"send",
-						"send_str"
+						"resul",
+						"result_csv_"
 					],
 					[
-						"sen",
-						"send_str"
+						"calcF",
+						"calcInFolder(d_path)	(global, function)"
 					],
 					[
-						"__del",
-						"__del__()	(attribute, function)"
+						"calc",
+						"calcAndOutput(fname_exp_ext)	(global, function)"
 					],
 					[
-						"socke",
-						"SocketConnect"
+						"fname_",
+						"fname_exp_ext	(local, instance)"
 					],
 					[
-						"e",
-						"exec_	(sample4.py)"
+						"wa",
+						"wav_file"
 					],
 					[
-						"gra",
-						"GraphFrame"
+						"num",
+						"numsample"
 					],
 					[
-						"Main",
-						"MainWindow"
+						"yar",
+						"yarp_vt"
 					],
 					[
-						"exec",
-						"exec_	(sample4.py)"
+						"getAng",
+						"getAllAngsAsList"
 					],
 					[
-						"draw",
-						"draw_plot"
+						"capu",
+						"captureImg	(linguaViewer.py)"
 					],
 					[
-						"Ac",
-						"AActivity"
+						"getA",
+						"getAllAngsAsList"
 					],
 					[
-						"r_a",
-						"r_ang_off"
+						"setAn",
+						"setAllAngsFromList(l)	(attribute, function)"
+					],
+					[
+						"getOff",
+						"getOffsetPos(int n)	Util::Vec2d"
+					],
+					[
+						"setVels",
+						"setVelsForEach(vel_list)	(attribute, function)"
+					],
+					[
+						"getVel",
+						"getVelsForEach(num)	(attribute, function)"
+					],
+					[
+						"getEnc",
+						"getEncsAsFloatForEach(num)	(attribute, function)"
+					],
+					[
+						"getDons",
+						"getDonsAsBoolForEach(num)	(attribute, function)"
+					],
+					[
+						"getDonAs",
+						"getDonAsBool(dof)	(attribute, function)"
+					],
+					[
+						"setVel",
+						"setVel(dof, vel)	(attribute, function)"
+					],
+					[
+						"setPo",
+						"setPosByName(name, pos)	(attribute, function)"
+					],
+					[
+						"setAlla",
+						"setAllAngsFromList(l)	(attribute, function)"
+					],
+					[
+						"vels",
+						"vels_vt	(attribute, instance)"
+					],
+					[
+						"poss",
+						"poss_vt"
+					],
+					[
+						"setAng",
+						"setAngs	(patternPython.py)"
+					],
+					[
+						"setPoss",
+						"setJawbasePossEach	(patternPython.py)"
+					],
+					[
+						"getDon",
+						"getDonsAsBool	(linguaMaestro2.py)"
+					],
+					[
+						"i_lis",
+						"i_list2"
+					],
+					[
+						"setA",
+						"setAngs	(patternPython.py)"
+					],
+					[
+						"TRUE",
+						"True"
+					],
+					[
+						"y_A",
+						"y_a	(local, instance)"
+					],
+					[
+						"y_b",
+						"y_b"
+					],
+					[
+						"x_a",
+						"x_a"
+					],
+					[
+						"getJa",
+						"getJawBasePos	(MechanicalProperty.h)"
+					],
+					[
+						"getPos",
+						"getPoss()	(attribute, function)"
+					],
+					[
+						"def",
+						"define	(MechanicalProperty.h)"
+					],
+					[
+						"j",
+						"j"
+					],
+					[
+						"setJaw",
+						"setJawbasePossEach(Ax_, Ay_, Bx_, By_, Cx_, Cy_, Cang_)	(attribute, function)"
+					],
+					[
+						"DPOSI",
+						"DPOTISIONS_TONGUE	(patternPython.h)"
+					],
+					[
+						"getPo",
+						"getPoss	(patternPython.py)"
+					],
+					[
+						"refre",
+						"refreshPositionSlider()	(attribute, function)"
+					],
+					[
+						"tmp_a",
+						"tmp_angles	(attribute, instance)"
 					],
 					[
 						"std",
-						"std::cout"
-					],
-					[
-						"SCL",
-						"SCLink::calcKinematics"
-					],
-					[
-						"t_a",
-						"t_ang"
+						"std::endl"
 					],
 					[
 						"t_",
-						"t_ang_"
-					],
-					[
-						"t_ang",
-						"t_ang_"
+						"t_ang	Util::Angle"
 					],
 					[
 						"Util",
 						"Util::Angle"
 					],
 					[
-						"DZ",
-						"DZ_FL	const double"
+						"setTipB",
+						"setTipBackPos"
 					],
 					[
-						"DX",
-						"DX_FL	const double"
+						"getJawBase",
+						"getJawBasePos(int n)	Util::Vec2d"
 					],
 					[
-						"T_",
-						"T_MIN_FL"
+						"TIp",
+						"setTipBackPos"
 					],
 					[
-						"R_ANG_",
-						"R_ANG_OFF_FL"
-					],
-					[
-						"getPo",
-						"getPosNoRot"
+						"getJaw",
+						"getJawBasePos"
 					],
 					[
 						"getR",
 						"getRDegree()	Util::Angle"
 					],
 					[
-						"tongu",
-						"tongue_br"
+						"tmp",
+						"tmp_C"
 					],
 					[
-						"tongue_",
-						"tongue_ar	(TongueLimit.h)"
+						"refreshPos",
+						"refreshPositionSlider()	(attribute, function)"
 					],
 					[
-						"tongue_ct",
-						"tongue_ctr"
+						"yarp",
+						"yarp_fps"
 					],
 					[
-						"tongue_c",
-						"tongue_cr"
+						"getF",
+						"getFps()	(attribute, function)"
 					],
 					[
-						"calc",
-						"calcKinematics()	void"
+						"send",
+						"send_event"
 					],
 					[
-						"UTil",
-						"Util::Angle"
+						"wait",
+						"waitTiming"
+					],
+					[
+						"t_a",
+						"t_ang_max"
+					],
+					[
+						"r_a",
+						"r_ang_double"
+					],
+					[
+						"setJawA",
+						"setjawAng(ang_)	(attribute, function)"
+					],
+					[
+						"__a",
+						"__angs"
+					],
+					[
+						"DTONGU",
+						"DANGLES_TONGUE"
+					],
+					[
+						"setJa",
+						"setJawbasePossEach(Ax_, Ay_, Bx_, By_, Cx_, Cy_, Cang_)	(attribute, function)"
+					],
+					[
+						"getPosBy",
+						"getPosBy"
+					],
+					[
+						"ref",
+						"refreshPositionSlider"
+					],
+					[
+						"getPosCx",
+						"getPosCx"
+					],
+					[
+						"getPosA",
+						"getPosAx"
+					],
+					[
+						"dst",
+						"dst_linkage"
+					],
+					[
+						"dst_an",
+						"dst_cang	(attribute, instance)"
+					],
+					[
+						"ang",
+						"ang	(attribute, instance)"
+					],
+					[
+						"setJawBa",
+						"setJawbasePoss(DPOTISIONS_TONGUE_)	(attribute, function)"
 					],
 					[
 						"scl",
-						"scl_b"
+						"scl_t"
 					],
 					[
-						"dx",
-						"dx_b	double"
+						"__calcKinematicsOffset",
+						"__calcKinematicsOffset"
 					],
 					[
-						"SCLinkFront",
-						"SCLinkFrontTip"
+						"calcInvKinematicsJawB",
+						"calcInvKinematicsJawBaseB	(patternPython.cpp)"
 					],
 					[
-						"scl_",
-						"scl_fr"
+						"calcKine",
+						"calcKinematics()	void"
 					],
 					[
-						"getD",
-						"getDxF	(MechanicalProperty.h)"
+						"setTipBack",
+						"setTipBackJawConsiderPos	(MechanicalProperty.h)"
 					],
 					[
-						"getf",
-						"getF12Radian"
+						"calcK",
+						"calcKinematics()	void"
 					],
 					[
-						"dz_",
-						"DZ_T	const double"
+						"arg",
+						"arg_pos"
 					],
 					[
-						"DX_F_",
-						"DX_F_T	(MechanicalProperty.h)"
+						"setFront",
+						"setFrontTipOffset	(MechanicalProperty.h)"
 					],
 					[
-						"DX_",
-						"DX_B_T	(MechanicalProperty.h)"
+						"Uti",
+						"Util::Angle"
 					],
 					[
-						"SCLINK",
-						"SCLinkTip"
+						"group_",
+						"group_move_mode"
 					],
 					[
-						"sq",
-						"std::sqrt"
+						"lay_bx",
+						"lay_bx	(local, instance)"
 					],
 					[
-						"DZ_",
-						"DZ_B_B"
+						"T",
+						"TipBack	(MechanicalProperty.h)"
 					],
 					[
-						"R_",
-						"R_B"
+						"evYarp",
+						"evYarpButtonPushed"
 					],
 					[
-						"P0",
-						"P0_X_FR"
+						"group",
+						"group_output_mode"
 					],
 					[
-						"E",
-						"E_FR"
+						"radio_inv",
+						"radio_inv_text	(attribute, instance)"
+					],
+					[
+						"lay_right",
+						"lay_right	(local, instance)"
+					],
+					[
+						"setLip",
+						"setLipDisplace(DDISPLACE_LIP_)	(attribute, function)"
+					],
+					[
+						"lay_bucci",
+						"lay_buccir"
+					],
+					[
+						"lay_orbi",
+						"lay_orbicb"
+					],
+					[
+						"lay_or",
+						"lay_orbict"
+					],
+					[
+						"slider_orb",
+						"slider_orbict"
+					],
+					[
+						"dst_or",
+						"dst_orbict"
+					],
+					[
+						"cur_Orbicb",
+						"cur_Orbicb	(attribute, instance)"
+					],
+					[
+						"setVm",
+						"setVmo(dof, vel)	(attribute, function)"
+					],
+					[
+						"getE",
+						"getEncAsFloat(dof)	(attribute, function)"
+					],
+					[
+						"enc",
+						"enc_list"
+					],
+					[
+						"del",
+						"delta"
+					],
+					[
+						"Ctb",
+						"Ctb	(attribute, instance)"
+					],
+					[
+						"getAn",
+						"getAngs()	(attribute, function)"
+					],
+					[
+						"ev",
+						"ev_dons"
+					],
+					[
+						"sha",
+						"shared_obj2"
+					],
+					[
+						"setPa",
+						"setPalateDisplace(DDISPLACE_PALATE_)	(attribute, function)"
+					],
+					[
+						"clear",
+						"clear=True"
+					],
+					[
+						"gy_",
+						"gy_cor	(attribute, instance)"
+					],
+					[
+						"setup",
+						"setup()	(attribute, function)"
+					],
+					[
+						"set",
+						"setup"
+					],
+					[
+						"stop",
+						"stop()	(attribute, function)"
+					],
+					[
+						"loop",
+						"loop_flag"
+					],
+					[
+						"yarpS",
+						"yarpSetUp()	(attribute, function)"
+					],
+					[
+						"spe",
+						"specItem"
+					],
+					[
+						"cp_button",
+						"cp_button	(local, instance)"
+					],
+					[
+						"DANGLE",
+						"DANGLES_LIP"
+					],
+					[
+						"Bucc",
+						"BucciR"
+					],
+					[
+						"Orbi",
+						"OrbicT"
+					],
+					[
+						"Bu",
+						"BucciL"
+					],
+					[
+						"Lip",
+						"LipOrbicT"
+					],
+					[
+						"pen_b",
+						"pen_b	(attribute, instance)"
+					],
+					[
+						"f_",
+						"f_palate"
+					],
+					[
+						"pen_a",
+						"pen_a	(attribute, instance)"
+					],
+					[
+						"pen_j",
+						"pen_ljaw"
+					],
+					[
+						"g",
+						"g"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 104.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package control disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -543,10 +551,6 @@
 					[
 						"repl",
 						"SublimeREPL: Python"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"color",
@@ -582,98 +586,134 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/csvRead.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/yarpClientTest.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/vcTest.csv",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/vtTest.csv",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/makeLinguaCtrl.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/makeLinguaCtrl.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarp_tcl.sd",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/re",
-				"/C/_MyProgram/Vocal/Noblib/Util/Curses.hpp",
-				"/C/_MyProgram/Vocal/Noblib/LIB/include/curses.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.h",
-				"/C/Users/Tomohiro.Kojima/Documents/recAudio.py",
-				"/C/Users/Tomohiro.Kojima/Documents/tongueTest.csv",
-				"/C/Users/Tomohiro.Kojima/Documents/linguaExperiment.py",
-				"/C/Users/Tomohiro.Kojima/Documents/csvRead.py",
-				"/C/Users/Tomohiro.Kojima/Documents/yarpClientTest.py",
-				"/C/Users/Tomohiro.Kojima/Documents/yarpClient.py",
-				"/C/Users/Tomohiro.Kojima/Documents/recAndPlay.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/YarpTextMsgServer.h",
-				"/C/Users/Tomohiro.Kojima/Downloads/Lingua_YarpTextMsg.txt",
-				"/C/Users/Tomohiro.Kojima/Documents/sample_.py",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Pep8Lint.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Pep8Lint/Pep8Lint.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Pep8Lint/Default (Windows).sublime-keymap",
-				"/C/Users/Tomohiro.Kojima/Documents/sample5.py",
-				"/C/Users/Tomohiro.Kojima/Downloads/00README-ja.txt",
-				"/C/Users/Tomohiro.Kojima/Downloads/comment-7.txt",
-				"/C/_MyProgram/Vocal/Noblib/Sound/test/waveinTest.cpp",
-				"/C/Users/Tomohiro.Kojima/Documents/sample4.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimit.h",
-				"/C/Users/Tomohiro.Kojima/Documents/sample3.py",
-				"/C/Users/Tomohiro.Kojima/Documents/sample2.py",
-				"/C/Users/Tomohiro.Kojima/Documents/sample.py",
-				"/C/Users/Tomohiro.Kojima/Anaconda2/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/src/test/recAudioTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternRead.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaViewer.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaMaestro2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaMaestro2_.py",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.h",
-				"/C/2015-10-25_CryingCalc/_Praat/clearinfo_7.praat",
-				"/C/2015-10-25_CryingCalc/RecData/6MoA/result.txt",
-				"/C/2015-10-25_CryingCalc/_Praat/get_formant_pow.praat",
-				"/C/2015-10-25_CryingCalc/_Praat/get_formant.praat",
-				"/C/2015-10-25_CryingCalc/RecData/6MoA/06m01d-1_hungry_058.wav.txt",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.mk",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/ExtractCenterOfWaveFileInFolder.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPCInFolderwithOther.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/levinson_durbin.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPC.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPC_solo.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawWav_spector.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawWav.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/AnaData/01-27-28_trimed_7000/rename_for_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/plot_all.plt",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/plot.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/do_praat.bat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/memo",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Thesis/Sadoku/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/____Toyota/Memo.md",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/vowel_kuhlmelt.csv",
+				"/C/Users/Tomohiro.Kojima/Dropbox/_Vocal/_bak/RSJ_Voice_WAVE_bak/20140617NC/20140617/Pitch.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/README.md",
+				"//192.168.5.203/disk/RESEARCH/Vocal/THESIS/2014_M2_Yoshida/2015-02_Yoshida_Tongue_Camera/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/新しいテキスト ドキュメント.txt",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/trim.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/split2.py",
+				"/C/SPTK-3.9/unistd.h",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/RecData/rename_for_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/get_formant.praat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/do_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/plot.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/mfcc.praat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphWithThreadTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheck.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPythonTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result2.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result3.txt",
+				"/C/_MyProgram/Vocal/Lingua/Maestro/src/patternRead.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker/0_-10_70_5_40_-13_75_45_0_0_0_0_0_0_0_0_1_1_5_1_5_1_5_5/0_-2_10_2_10_-2_10_10/0_-2_10_2_10_-2_10_10_result.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/multiThreadTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimitCalc.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/README.md",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClientTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/soketConnect.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimit.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheckViewer.py",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/LipMovement.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/RevoluteJoint.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activity.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.h",
-				"/C/Users/Tomohiro.Kojima/Dropbox/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/DataTypes.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/Angle.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueCfg.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TomokiVc.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/JointConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/JointConfiguration.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/DeviceConfiguration.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/DeviceConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Device/DcMotorConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.cpp",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
-				"/C/cygwin64/usr/include/wchar.h",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
-				"/C/2015-10-25_CryingCalc/AnaData/3MoA_8000_1000/03m03d-1_hungry_058_8000_p1000_for.dat",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/make.bat",
-				"/C/_MyProgram/Vocal/WT_Control/Mecha.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/test/cntTest.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/widget.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/makeLinguaCtrl.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample5.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/graph.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtSample.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/matplotlibSample2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/matplotlibSample.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qt_mpl_data.csv",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qt_mpl_dataplot.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qwt_dataplot.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/main_mpl_tutorial.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/mplwidget.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample.py",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/qt/qt4/hello/arrow.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/generate/a.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/libraries/app/app.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/variant/a.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/customization/codegen.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/hello/hello.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/make/main_cpp.pro",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/python_helpers.py",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/tutorial/hello.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/tutorial/Jamroot",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/boost-build.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/boost-build.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/readme.txt",
+				"/C/Users/Tomohiro.Kojima/user-config.jam",
+				"/C/boost_1_60_0/user-config.jam",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/test.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechanicalPropertyPyTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/test.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitPy.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.h",
+				"/C/user-config.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/jamroot.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/hello/readme.txt",
+				"/C/boost_1_60_0/libs/python/example/quickstart/boost-build.jam",
+				"/C/boost_1_60_0/libs/python/example/tutorial/Jamroot",
+				"//192.168.5.203/disk/RESEARCH/Vocal/CAD/Solid/README.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheckerDll.bat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.cpp",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Util/test/matTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Util/PGFrame.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/test/matTest.cpp",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Set_up.h",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Voice_set.h",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Word_Set.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activity.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.lib",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.lib",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.dll",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.dll",
+				"/C/_MyProgram/Vocal/Noblib/COMMON.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.obj",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dlpatternChecker.dll",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty_Python.mk",
+				"/C/_MyProgram/Vocal/Noblib/Util/Event.h",
+				"/C/_MyProgram/Vocal/Noblib/Network/test/sdcEvTest.cpp",
 				"/C/_MyProgram/Vocal/Noblib/Util/test/evTest.cpp",
-				"/C/Users/Tomohiro.Kojima/src/Test.cpp",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/SublimeAStyleFormatter.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/src/Test.h",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Terminal.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Terminal (Windows).sublime-settings"
+				"/C/_MyProgram/Vocal/Noblib/Network/Socket.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Network/SharedData.h",
+				"/C/_MyProgram/Vocal/Noblib/Network/SharedData.cpp",
+				"/C/Users/Tomohiro.Kojima/boost_version.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/boost_thread.cpp",
+				"/C/cygwin64/usr/include/boost/python/module_init.hpp",
+				"/C/boost_1_60_0/libs/python/example/tutorial/hello.cpp",
+				"/C/boost_1_60_0/libs/python/example/tutorial/user-config.jam"
 			],
 			"find":
 			{
@@ -691,103 +731,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"sendAndGetStr",
-					"vmo",
-					"()\n",
-					"vt",
-					"lung",
-					"th_",
-					"th",
-					"y_vt",
-					"y_lung",
-					"getFloatByName",
-					"getPatternById",
-					"):\n",
-					"send_str",
-					"__slistToflist",
-					"__slist_to_flist",
-					"listtostr",
-					"()\n",
-					"            ",
-					")\n",
-					"0",
-					"__mSourceWav",
-					"F",
-					".s.send",
-					"close",
-					"self.s.close()",
-					"draw_sec",
-					"self.data",
-					"plot_data",
-					"num_frame",
-					"frames",
-					"WXAgg",
-					"backend",
-					"7000",
+					"vel",
+					"．",
+					"，",
+					" ",
+					"join",
+					"．",
+					"，",
+					"．",
+					"wavread",
+					"center",
+					"64",
+					"65",
+					"\\\\",
+					"/",
+					"\\",
+					"．",
+					"，",
+					"timer",
+					"time",
+					"join",
+					"dst_link",
+					"self.",
+					"self",
+					"> 0 ?",
+					"/LD",
+					"cl",
+					"DEBUG",
+					"t2",
+					"WidgetViewThread",
+					"self.DEBUG_LUNG",
+					"ForEach",
+					"FoeEach",
+					"Control",
+					"raw",
+					"wait",
+					"right",
+					"]",
+					"l[",
+					"list",
+					"l",
+					"setVelsAs",
+					"setPoss",
+					"stop",
+					"stopF",
+					"stop",
+					"Each",
+					"each",
+					"dst",
+					"(cur_linkage",
+					"yarp",
+					"label",
+					"plt",
+					"csv",
+					"rpose",
+					"ang",
+					"png_name",
+					"3",
+					"-3",
+					"o",
+					"n",
+					"m",
+					"l",
+					"k",
+					"j",
+					"i",
+					"1",
+					"02",
+					"{",
+					"cerr",
+					"catch",
+					"throw",
+					"1000",
+					"self.tmp_angles",
+					"setTipBackPos",
+					"calcInvKinematics",
+					"atan2",
+					"calcInvKinematics",
+					"calcInv",
+					"calc",
+					"refresh",
+					"- 20",
+					"+ 20",
+					"+20",
+					"1000",
+					"t1",
+					"cerr",
+					"throw",
+					"setTipBackJaw",
+					"throw",
+					"FromTipBack",
+					"setTipBackJaw",
+					"setTipBack",
+					"setTipBackJawConsiderPos",
+					"setTipBackJaw",
+					"what",
+					"b2c2",
+					"what",
+					"b2c2",
+					"b2",
+					"set",
+					"setAngleOnly",
+					"must",
+					"100",
+					"/100",
+					"*100",
+					"100",
+					"2)",
+					"2))",
+					"round",
+					"*10",
+					"/10",
+					"*10",
+					"dst",
+					"Text",
+					"cy",
+					"->Jaw",
+					".Jaw",
+					"Offset",
+					"offset",
+					"scl",
 					"7",
-					"f_mean2",
-					"5",
-					"getRRadian",
-					"getRadian",
-					"getRRadian",
-					"get",
-					"set",
-					"setRAng",
-					"setAng",
-					"setROffAng",
-					"cout",
-					"RTOS",
-					"t_ang_",
-					"POS[3",
-					"45",
-					"set",
-					"endl",
-					"setAng",
-					"max",
-					"set",
-					"Interence",
-					"acos",
-					"Util::",
-					"Util::Angle tongue_ct ",
-					"( Util::Angle jaw, Util::Angle tongue_ar, Util::Angle tongue_at, Util::Angle tongue_br,\n                      Util::Angle tongue_bt, Util::Angle tongue_cr, Util::Angle tongue_ct )",
-					"jaw",
-					"_f",
-					"R",
-					"_B",
-					"r_ang",
-					"_r",
-					"}\n",
-					"max",
-					"+ ",
-					"static const",
-					"const static",
-					"const",
-					"FR",
-					"private",
-					"10",
-					"_b",
-					"));",
-					"Front",
-					"pos[3]",
-					"pos[3",
-					"len_",
-					"t_2",
-					"t_1",
-					"const",
-					" *",
-					"at(",
-					"push_back",
-					"5",
-					"p",
-					"p[",
-					"6",
-					"Set",
-					"SetAng",
-					"xyz",
-					"SetAng",
-					"3d",
-					"Noblib::Util",
-					"Takalib"
+					"jawBase",
+					"Pos",
+					"scl",
+					"la",
+					"lambda",
+					".text())",
+					"float(self.dst_"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -795,63 +866,148 @@
 				"regex": false,
 				"replace_history":
 				[
-					"sendAndReceiveStr",
-					"vc",
-					"lg",
-					"thread_",
-					"thread",
-					"yarp_vt",
-					"yarp_lg",
-					"sendAndGetStr",
-					"__slistToFlist",
-					"__slistToflist",
-					"__listtostr",
-					"p",
-					"):\n",
-					".send_str",
+					"。",
+					"、",
 					"",
-					"CHUNK",
-					"getRRadianAbs",
-					"Interference",
+					"。",
+					"、",
+					"。",
+					"wavRead",
+					"point",
+					" #/",
+					"/\n/",
+					"\n/",
+					"\\\\",
+					"/",
+					"。",
+					"、",
+					"self.dst_link",
 					"",
-					"Util::Angle tongue_ctr, Util::Angle tongue_ctl",
-					"_c",
-					"L",
-					"_C",
-					"r_ang_f",
-					"_fr",
-					"const",
-					"static const",
-					"const static",
-					"B",
-					"C",
-					"FL",
-					"_f",
-					"Back",
-					"pos[4]Back",
-					"pos[4]",
-					"len",
-					"t2",
-					"t1",
+					"> DELTA ?",
+					"csl",
+					"])",
+					"float(l[",
+					"l",
+					"list",
+					"self.dst",
+					"(self.cur_linkage",
+					"range",
+					"pos",
+					"5",
+					"0",
+					"i[6]",
+					"i[5]",
+					"i[4]",
+					"i[3]",
+					"i[2]",
+					"i[1]",
+					"i[0]",
+					"3",
+					"03",
+					"100",
+					"- 15",
+					"+ 15",
+					"+15",
+					"100",
+					"1000",
+					"/1000",
+					"*1000",
+					"3)",
+					"3))",
+					"",
+					"cur",
+					"Value",
+					"cang",
+					"JawBase",
+					"jawbase",
+					"scl2",
+					"JawBase",
+					"jawBasePos",
+					"scl2",
+					"",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"ctf",
+					"ctb",
+					"cr",
+					"bt",
+					"br",
 					"at",
-					"set",
-					"2d",
-					"Util",
-					"Noblib"
+					"setValue",
+					"int",
+					"Interval",
+					"",
+					"setTickPosition",
+					"slider",
+					"float(self",
+					"text())",
+					"float(",
+					"text",
+					"dst",
+					"ay",
+					"ax",
+					"by",
+					"bx",
+					"Cy",
+					"cy",
+					"cx",
+					"output_mode",
+					"right",
+					"cur",
+					"getLipDisplaces",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"getLipDisplaces",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"OrbicB",
+					"OrbicT",
+					"self",
+					"delf.cur",
+					"delf.dst",
+					"Br"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"layout":
 			{
@@ -882,11 +1038,11 @@
 			},
 			"output.clang":
 			{
-				"height": 100.0
+				"height": 111.0
 			},
 			"output.exec":
 			{
-				"height": 310.0
+				"height": 178.0
 			},
 			"replace":
 			{
@@ -916,7 +1072,7 @@
 			"side_bar_width": 150.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 944.0
+		"new_window_width": 1102.0
 	},
 	"windows":
 	[
@@ -926,534 +1082,650 @@
 				"selected_items":
 				[
 					[
-						"date",
-						"datetime"
+						"dra",
+						"drawLogspec"
 					],
 					[
-						"recSto",
-						"recStop()	(attribute, function)"
+						"log",
+						"logspec"
 					],
 					[
-						"re",
-						"rec	(attribute, instance)"
+						"calcL",
+						"calcLpcSpectrum(input, rate, lpc_factor)	(global, function)"
 					],
 					[
-						"rec",
-						"recAudio"
+						"calc",
+						"calcFormant(input, rate, b_width)	(global, function)"
 					],
 					[
-						"setVel",
-						"setVel(dof, vel)	(attribute, function)"
+						"calcPre",
+						"calcPrecondition(input)	(global, function)"
 					],
 					[
-						"setvel",
-						"setVels(list)	(attribute, function)"
+						"lpc",
+						"lpc_a"
 					],
 					[
-						"getDon",
-						"getDonsAsBool()	(attribute, function)"
+						"part",
+						"part_num"
 					],
 					[
-						"vel",
-						"vel_lg	(attribute, instance)"
+						"path",
+						"path_root_src"
 					],
 					[
-						"stop",
-						"stopLg()	(attribute, function)"
+						"output",
+						"outputDir"
 					],
 					[
-						"thread",
-						"thread_lg"
-					],
-					[
-						"on_",
-						"on_ctrl_lg"
-					],
-					[
-						"getDons",
-						"getDonsAsBool()	(attribute, function)"
-					],
-					[
-						"lingua",
-						"linguaCtrl	(yarpClient.py)"
-					],
-					[
-						"Vc",
-						"VcFront	(yarpClient.py)"
-					],
-					[
-						"Glo",
-						"GlottisR"
-					],
-					[
-						"Rota",
-						"RotationR"
-					],
-					[
-						"Tongue",
-						"TongueCtb"
-					],
-					[
-						"TOngue",
-						"TongueBt"
-					],
-					[
-						"Tongu",
-						"TongueBt	(yarpClient.py)"
-					],
-					[
-						"tongue",
-						"TongueAr"
-					],
-					[
-						"Lip",
-						"LipMental"
-					],
-					[
-						"getFloa",
-						"getFloatByName	(csvRead.py)"
-					],
-					[
-						"setPos",
-						"setPosByName(name, pos)	(attribute, function)"
-					],
-					[
-						"yarp",
-						"yarp_vt"
-					],
-					[
-						"lg_",
-						"lg_stop_event	(attribute, instance)"
-					],
-					[
-						"setVmo",
-						"setVmoByName(name, vel)	(attribute, function)"
-					],
-					[
-						"set",
-						"setPosByName(name, pos)	(attribute, function)"
-					],
-					[
-						"setPosBy",
-						"setPosByName	(yarpClient.py)"
-					],
-					[
-						"getdon",
-						"getDonAsBool(dof)	(attribute, function)"
-					],
-					[
-						"raw",
-						"raw_input	(builtin, function)"
-					],
-					[
-						"setvm",
-						"setVmoByName(name, vel)	(attribute, function)"
-					],
-					[
-						"y_",
-						"y_vt"
-					],
-					[
-						"getEnc",
-						"getEncAsFloat(dof)	(attribute, function)"
-					],
-					[
-						"in",
-						"in_debug	(yarpClient.py)"
-					],
-					[
-						"ptn",
-						"ptns_vt"
-					],
-					[
-						"dof",
-						"dof_name"
-					],
-					[
-						"getIN",
-						"getIntByName	(csvRead.py)"
-					],
-					[
-						"get",
-						"getPatternById	(csvRead.py)"
-					],
-					[
-						"setPo",
-						"setPos	(yarpClient.py)"
-					],
-					[
-						"patter",
-						"patterns"
-					],
-					[
-						"__n",
-						"__nameToId"
-					],
-					[
-						"di",
-						"dict	(builtin, class)"
-					],
-					[
-						"setP",
-						"setPos	(yarpClient.py)"
-					],
-					[
-						"getEn",
-						"getEncAsFloat	(yarpClient.py)"
-					],
-					[
-						"in_",
-						"in_debug"
-					],
-					[
-						"getA",
-						"getAxesAsInt()	(attribute, function)"
-					],
-					[
-						"geta",
-						"get_axes()	(attribute, function)"
-					],
-					[
-						"__",
-						"__slist_to_flist"
-					],
-					[
-						"en",
-						"enc_list	(attribute, instance)"
-					],
-					[
-						"enc",
-						"enc_list"
-					],
-					[
-						"buf",
-						"bufs	(attribute, instance)"
-					],
-					[
-						"get_a",
-						"get_axes()	(attribute, function)"
-					],
-					[
-						"set_vel",
-						"set_vel(dof, vel)	(attribute, function)"
-					],
-					[
-						"set_ve",
-						"set_vel	(yarpClient.py)"
-					],
-					[
-						"getAll",
-						"getAllPatterns()	(attribute, function)"
-					],
-					[
-						"Patter",
-						"PatternArray	(imported, class)"
-					],
-					[
-						"ec",
-						"except"
-					],
-					[
-						"getCoun",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"setC",
-						"setClearCount()	(attribute, function)"
-					],
-					[
-						"pa",
-						"pattern_cnt"
-					],
-					[
-						"getPa",
-						"getPatternInOrder()	(attribute, function)"
-					],
-					[
-						"getBy",
-						"getByName"
-					],
-					[
-						"getPatt",
-						"getPatternInOrder"
-					],
-					[
-						"getCou",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"getcou",
-						"getCount()	(attribute, function)"
-					],
-					[
-						"patt",
-						"pattern	(attribute, instance)"
-					],
-					[
-						"patte",
-						"pattern_cnt"
-					],
-					[
-						"getHe",
-						"getHeader()	(attribute, function)"
-					],
-					[
-						"getB",
-						"getById"
-					],
-					[
-						"Pa",
-						"Patterns	(attribute, instance)"
-					],
-					[
-						"getN",
-						"getNextPattern()	(attribute, function)"
-					],
-					[
-						"Patt",
-						"Patterns"
-					],
-					[
-						"Cs",
-						"csvRead"
-					],
-					[
-						"getH",
-						"getHeader()	(attribute, function)"
-					],
-					[
-						"Patte",
-						"Pattern	(global, class)"
-					],
-					[
-						"sel",
-						"self	(local, instance)"
-					],
-					[
-						"ne",
-						"next()	(attribute, function)"
-					],
-					[
-						"hea",
-						"head_str"
-					],
-					[
-						"csv",
-						"csvRead"
-					],
-					[
-						"on",
-						"onRec"
-					],
-					[
-						"recS",
-						"recStop()	(attribute, function)"
-					],
-					[
-						"ou",
-						"outputChCount	(sample_.py)"
+						"folder",
+						"folder_path"
 					],
 					[
 						"file",
 						"file_name"
 					],
 					[
-						"set_",
-						"set_pos"
+						"folde",
+						"folder_path"
 					],
 					[
-						"get_",
-						"get_enc"
+						"spli",
+						"splitWav(wav_path, num)	(global, function)"
 					],
 					[
-						"clo",
-						"close()	(attribute, function)"
+						"write",
+						"write_wave"
 					],
 					[
-						"setposs",
-						"set_poss(list)	(attribute, function)"
+						"for",
+						"formant"
 					],
 					[
-						"send",
-						"send_str"
+						"resul",
+						"result_csv_"
 					],
 					[
-						"sen",
-						"send_str"
+						"calcF",
+						"calcInFolder(d_path)	(global, function)"
 					],
 					[
-						"__del",
-						"__del__()	(attribute, function)"
+						"fname_",
+						"fname_exp_ext	(local, instance)"
 					],
 					[
-						"socke",
-						"SocketConnect"
+						"wa",
+						"wav_file"
 					],
 					[
-						"e",
-						"exec_	(sample4.py)"
+						"num",
+						"numsample"
 					],
 					[
-						"gra",
-						"GraphFrame"
+						"yar",
+						"yarp_vt"
 					],
 					[
-						"Main",
-						"MainWindow"
+						"getAng",
+						"getAllAngsAsList"
 					],
 					[
-						"exec",
-						"exec_	(sample4.py)"
+						"capu",
+						"captureImg	(linguaViewer.py)"
 					],
 					[
-						"draw",
-						"draw_plot"
+						"getA",
+						"getAllAngsAsList"
 					],
 					[
-						"Ac",
-						"AActivity"
+						"setAn",
+						"setAllAngsFromList(l)	(attribute, function)"
 					],
 					[
-						"r_a",
-						"r_ang_off"
+						"getOff",
+						"getOffsetPos(int n)	Util::Vec2d"
+					],
+					[
+						"setVels",
+						"setVelsForEach(vel_list)	(attribute, function)"
+					],
+					[
+						"getVel",
+						"getVelsForEach(num)	(attribute, function)"
+					],
+					[
+						"getEnc",
+						"getEncsAsFloatForEach(num)	(attribute, function)"
+					],
+					[
+						"getDons",
+						"getDonsAsBoolForEach(num)	(attribute, function)"
+					],
+					[
+						"getDonAs",
+						"getDonAsBool(dof)	(attribute, function)"
+					],
+					[
+						"setVel",
+						"setVel(dof, vel)	(attribute, function)"
+					],
+					[
+						"setPo",
+						"setPosByName(name, pos)	(attribute, function)"
+					],
+					[
+						"setAlla",
+						"setAllAngsFromList(l)	(attribute, function)"
+					],
+					[
+						"vels",
+						"vels_vt	(attribute, instance)"
+					],
+					[
+						"poss",
+						"poss_vt"
+					],
+					[
+						"setAng",
+						"setAngs	(patternPython.py)"
+					],
+					[
+						"setPoss",
+						"setJawbasePossEach	(patternPython.py)"
+					],
+					[
+						"getDon",
+						"getDonsAsBool	(linguaMaestro2.py)"
+					],
+					[
+						"i_lis",
+						"i_list2"
+					],
+					[
+						"setA",
+						"setAngs	(patternPython.py)"
+					],
+					[
+						"TRUE",
+						"True"
+					],
+					[
+						"y_A",
+						"y_a	(local, instance)"
+					],
+					[
+						"y_b",
+						"y_b"
+					],
+					[
+						"x_a",
+						"x_a"
+					],
+					[
+						"getJa",
+						"getJawBasePos	(MechanicalProperty.h)"
+					],
+					[
+						"getPos",
+						"getPoss()	(attribute, function)"
+					],
+					[
+						"def",
+						"define	(MechanicalProperty.h)"
+					],
+					[
+						"j",
+						"j"
+					],
+					[
+						"setJaw",
+						"setJawbasePossEach(Ax_, Ay_, Bx_, By_, Cx_, Cy_, Cang_)	(attribute, function)"
+					],
+					[
+						"DPOSI",
+						"DPOTISIONS_TONGUE	(patternPython.h)"
+					],
+					[
+						"getPo",
+						"getPoss	(patternPython.py)"
+					],
+					[
+						"refre",
+						"refreshPositionSlider()	(attribute, function)"
+					],
+					[
+						"tmp_a",
+						"tmp_angles	(attribute, instance)"
 					],
 					[
 						"std",
-						"std::cout"
-					],
-					[
-						"SCL",
-						"SCLink::calcKinematics"
-					],
-					[
-						"t_a",
-						"t_ang"
+						"std::endl"
 					],
 					[
 						"t_",
-						"t_ang_"
-					],
-					[
-						"t_ang",
-						"t_ang_"
+						"t_ang	Util::Angle"
 					],
 					[
 						"Util",
 						"Util::Angle"
 					],
 					[
-						"DZ",
-						"DZ_FL	const double"
+						"setTipB",
+						"setTipBackPos"
 					],
 					[
-						"DX",
-						"DX_FL	const double"
+						"getJawBase",
+						"getJawBasePos(int n)	Util::Vec2d"
 					],
 					[
-						"T_",
-						"T_MIN_FL"
+						"TIp",
+						"setTipBackPos"
 					],
 					[
-						"R_ANG_",
-						"R_ANG_OFF_FL"
-					],
-					[
-						"getPo",
-						"getPosNoRot"
+						"getJaw",
+						"getJawBasePos"
 					],
 					[
 						"getR",
 						"getRDegree()	Util::Angle"
 					],
 					[
-						"tongu",
-						"tongue_br"
+						"tmp",
+						"tmp_C"
 					],
 					[
-						"tongue_",
-						"tongue_ar	(TongueLimit.h)"
+						"refreshPos",
+						"refreshPositionSlider()	(attribute, function)"
 					],
 					[
-						"tongue_ct",
-						"tongue_ctr"
+						"yarp",
+						"yarp_fps"
 					],
 					[
-						"tongue_c",
-						"tongue_cr"
+						"getF",
+						"getFps()	(attribute, function)"
 					],
 					[
-						"calc",
-						"calcKinematics()	void"
+						"send",
+						"send_event"
 					],
 					[
-						"UTil",
-						"Util::Angle"
+						"wait",
+						"waitTiming"
+					],
+					[
+						"t_a",
+						"t_ang_max"
+					],
+					[
+						"r_a",
+						"r_ang_double"
+					],
+					[
+						"setJawA",
+						"setjawAng(ang_)	(attribute, function)"
+					],
+					[
+						"__a",
+						"__angs"
+					],
+					[
+						"DTONGU",
+						"DANGLES_TONGUE"
+					],
+					[
+						"setJa",
+						"setJawbasePossEach(Ax_, Ay_, Bx_, By_, Cx_, Cy_, Cang_)	(attribute, function)"
+					],
+					[
+						"getPosBy",
+						"getPosBy"
+					],
+					[
+						"ref",
+						"refreshPositionSlider"
+					],
+					[
+						"getPosCx",
+						"getPosCx"
+					],
+					[
+						"getPosA",
+						"getPosAx"
+					],
+					[
+						"dst",
+						"dst_linkage"
+					],
+					[
+						"dst_an",
+						"dst_cang	(attribute, instance)"
+					],
+					[
+						"ang",
+						"ang	(attribute, instance)"
+					],
+					[
+						"setJawBa",
+						"setJawbasePoss(DPOTISIONS_TONGUE_)	(attribute, function)"
 					],
 					[
 						"scl",
-						"scl_b"
+						"scl_t"
 					],
 					[
-						"dx",
-						"dx_b	double"
+						"__calcKinematicsOffset",
+						"__calcKinematicsOffset"
 					],
 					[
-						"SCLinkFront",
-						"SCLinkFrontTip"
+						"calcInvKinematicsJawB",
+						"calcInvKinematicsJawBaseB	(patternPython.cpp)"
 					],
 					[
-						"scl_",
-						"scl_fr"
+						"calcKine",
+						"calcKinematics()	void"
 					],
 					[
-						"getD",
-						"getDxF	(MechanicalProperty.h)"
+						"setTipBack",
+						"setTipBackJawConsiderPos	(MechanicalProperty.h)"
 					],
 					[
-						"getf",
-						"getF12Radian"
+						"calcK",
+						"calcKinematics()	void"
 					],
 					[
-						"dz_",
-						"DZ_T	const double"
+						"arg",
+						"arg_pos"
 					],
 					[
-						"DX_F_",
-						"DX_F_T	(MechanicalProperty.h)"
+						"setFront",
+						"setFrontTipOffset	(MechanicalProperty.h)"
 					],
 					[
-						"DX_",
-						"DX_B_T	(MechanicalProperty.h)"
+						"Uti",
+						"Util::Angle"
 					],
 					[
-						"SCLINK",
-						"SCLinkTip"
+						"group_",
+						"group_move_mode"
 					],
 					[
-						"sq",
-						"std::sqrt"
+						"lay_bx",
+						"lay_bx	(local, instance)"
 					],
 					[
-						"DZ_",
-						"DZ_B_B"
+						"T",
+						"TipBack	(MechanicalProperty.h)"
+					],
+					[
+						"evYarp",
+						"evYarpButtonPushed"
+					],
+					[
+						"group",
+						"group_output_mode"
+					],
+					[
+						"radio_inv",
+						"radio_inv_text	(attribute, instance)"
+					],
+					[
+						"lay_right",
+						"lay_right	(local, instance)"
+					],
+					[
+						"setLip",
+						"setLipDisplace(DDISPLACE_LIP_)	(attribute, function)"
+					],
+					[
+						"lay_bucci",
+						"lay_buccir"
+					],
+					[
+						"lay_orbi",
+						"lay_orbicb"
+					],
+					[
+						"lay_or",
+						"lay_orbict"
+					],
+					[
+						"slider_orb",
+						"slider_orbict"
+					],
+					[
+						"dst_or",
+						"dst_orbict"
+					],
+					[
+						"cur_Orbicb",
+						"cur_Orbicb	(attribute, instance)"
+					],
+					[
+						"setVm",
+						"setVmo(dof, vel)	(attribute, function)"
+					],
+					[
+						"getE",
+						"getEncAsFloat(dof)	(attribute, function)"
+					],
+					[
+						"enc",
+						"enc_list"
+					],
+					[
+						"del",
+						"delta"
+					],
+					[
+						"Ctb",
+						"Ctb	(attribute, instance)"
+					],
+					[
+						"getAn",
+						"getAngs()	(attribute, function)"
+					],
+					[
+						"ev",
+						"ev_dons"
+					],
+					[
+						"sha",
+						"shared_obj2"
+					],
+					[
+						"setPa",
+						"setPalateDisplace(DDISPLACE_PALATE_)	(attribute, function)"
+					],
+					[
+						"clear",
+						"clear=True"
+					],
+					[
+						"gy_",
+						"gy_cor	(attribute, instance)"
+					],
+					[
+						"setup",
+						"setup()	(attribute, function)"
+					],
+					[
+						"set",
+						"setup"
+					],
+					[
+						"stop",
+						"stop()	(attribute, function)"
+					],
+					[
+						"loop",
+						"loop_flag"
+					],
+					[
+						"yarpS",
+						"yarpSetUp()	(attribute, function)"
+					],
+					[
+						"spe",
+						"specItem"
+					],
+					[
+						"cp_button",
+						"cp_button	(local, instance)"
+					],
+					[
+						"DANGLE",
+						"DANGLES_LIP"
+					],
+					[
+						"Bucc",
+						"BucciR"
+					],
+					[
+						"Orbi",
+						"OrbicT"
+					],
+					[
+						"Bu",
+						"BucciL"
+					],
+					[
+						"Lip",
+						"LipOrbicT"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawLPCInFolderwithOther.py",
+					"settings":
+					{
+						"buffer_size": 6394,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawLPCInFolder.py",
+					"settings":
+					{
+						"buffer_size": 5134,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/RealTimeLpc.py",
+					"settings":
+					{
+						"buffer_size": 4152,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/CalcFormant",
+					"settings":
+					{
+						"buffer_size": 7862,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/test2.py",
+					"settings":
+					{
+						"buffer_size": 1670,
+						"line_ending": "Windows",
+						"name": "# -*- coding:utf-8 -*-"
+					}
+				},
+				{
+					"contents": "# -*- coding:utf-8 -*-\n\nimport pyaudio\nimport wave\nimport numpy as np\nimport scipy.io.wavfile\nimport scipy.signal\nimport scipy.fftpack\nimport os\nfrom pylab import *\nfrom levinson_durbin import autocorr, LevinsonDurbin\n#from matplotlib import pyplot as plt\nimport time\nfrom threading import Thread, Lock\nimport pyqtgraph as pg\nfrom PyQt4 import QtGui, QtCore\n\n\nclass Soundcalculater():\n\n    def __init__(self):\n        # self.sound\n        # self.fscale\n        # self.logspec\n        # self.loglpcspec\n        # self.formant\n        pass\n\n    def wavread(self, filename):\n        wf = wave.open(filename, \"r\")\n        fs = wf.getframerate()\n        x = wf.readframes(wf.getnframes())\n        x = np.frombuffer(x, dtype=\"int16\") / 32768.0  # (-1, 1)に正規化\n        wf.close()\n        return x, float(fs)\n\n    def preEmphasis(self, signal, p):\n        \"\"\"プリエンファシスフィルタ\"\"\"\n        # 係数 (1.0, -p) のFIRフィルタを作成\n        return scipy.signal.lfilter([1.0, -p], 1, signal)\n\n    ######################################################################\n\n    def calcPrecondition(self, input):\n        s = input\n\n        # プリエンファシスフィルタをかける\n        p = 0.97  # プリエンファシス係数\n        s = self.preEmphasis(s, p)\n\n        # ハミング窓をかける\n        hammingWindow = np.hamming(len(s))\n        s = s * hammingWindow\n\n        return s\n\n    def calcVoiceSpectrum(self, input, rate, nfft):\n        s = input\n        fs = rate\n\n        fscale = np.fft.fftfreq(nfft, d=1.0 / fs)[:nfft / 2]\n\n        # オリジナル信号の対数スペクトル\n        spec = np.abs(np.fft.fft(s, nfft))\n        logspec = 20 * np.log10(spec)\n        # plot(fscale, logspec[:nfft / 2])\n\n        return fscale, logspec[:nfft / 2]\n\n    def calcLpcSpectrum(self, input, rate, lpc_factor, nfft):\n        s = input\n        fs = rate\n\n        # LPC係数を求める\n        lpcOrder = int(lpc_factor)\n        r = autocorr(s, lpcOrder + 1)\n        a, e = LevinsonDurbin(r, lpcOrder)\n\n        fscale = np.fft.fftfreq(nfft, d=1.0 / fs)[:nfft / 2]\n\n        # LPC対数スペクトル\n        w, h = scipy.signal.freqz(np.sqrt(e), a, nfft, \"whole\")\n        lpcspec = np.abs(h)\n        loglpcspec = 20 * np.log10(lpcspec)\n        # plot(fscale, loglpcspec[:nfft / 2], \"r\", linewidth=2)\n\n        return a, e, fscale, loglpcspec[:nfft / 2]\n\n    def calcFormant(self, input, rate, b_width):\n        fs = rate\n        a = input\n\n        # 根の探索\n        rts = np.roots(a)\n        # 共役解のうち、虚部が負のものは取り除く\n        rts = np.array(filter(lambda x: np.imag(x) >= 0, rts))\n\n        # 根から角度を計算\n        angz = np.arctan2(np.imag(rts), np.real(rts))\n        # 角度の低い順にソート\n        sorted_index = angz.argsort()\n        # 角度からフォルマント周波数を計算\n        freqs = angz.take(sorted_index) * (fs / (2 * np.pi))\n        # 角度からフォルマントの帯域幅も計算\n        bw = -1 / 2 * (fs / (2 * np.pi)) * \\\n            np.log(np.abs(rts.take(sorted_index)))\n\n        formant = []\n\n        for i in range(len(freqs)):\n            # フォルマントの周波数は90Hz超えで、帯域幅は400Hz未満\n            if freqs[i] > 90 and bw[i] < int(b_width):\n                # print \"formant kita-: %d\" % freqs[i]\n                formant.append(freqs[i])\n                #axvspan(freqs[i] - 50, freqs[i] + 50, facecolor='g', alpha=0.3)\n\n        return formant\n\n    def getLogspec(self):\n        return self.fscale, self.logspec\n\n    def drawGraph(self):\n        plt.clf()\n        plt.plot(self.fscale, self.logspec)\n\n    def calc(self, input, rate, nfft, lpc_factor, b_width):\n        # print \"Start\"\n        #start = time.time()\n\n        # plt.clf()\n\n        self.sound = self.calcPrecondition(input)\n        self.fscale, self.logspec = self.calcVoiceSpectrum(\n            self.sound, rate, nfft)\n        self.a, self.e, self.fscale, self.loglpcspec = self.calcLpcSpectrum(\n            self.sound, rate, lpc_factor, nfft)\n        self.formant = self.calcFormant(self.a, rate, b_width)\n\n        # self.drawGraph()\n\n        #ave = np.average(loglpcspec)\n        # if ave < -50:\n        #    print \"average < -50\"\n        #    return\n        # if len(formant) < 3:\n        #    print \"Formant num < 3\"\n        #    return\n        # if formant[1] == 0:\n        #    print \"F1 = 0[Hz]\"\n        #    return\n        # if formant[1] > 1500 or formant[2] > 4000:\n        #    print \"F1 > 1500 or F2 < 4000\"\n        #    return\n\n        #plt.xlim((0, 8000))\n        #plt.ylim((-80, 30))\n        # plt.xlabel(\"Frequency [Hz]\")  # x軸のタイトル\n        # plt.ylabel(r\"Magnitude [dB]\")  # y軸\n        # plt.pause(.0001)\n\n        # elapsed_time = time.time() - start\n        # print (\"all_finish:{0}\".format(elapsed_time)) + \"[sec]\"\n\n    ######################################################################\n\n\nclass Widget(QtGui.QWidget):\n\n    def __init__(self):\n        super(Widget, self).__init__()\n\n        # メインウィンドウ\n        self.mainWindow = QtGui.QMainWindow()\n        self.mainWindow.setWindowTitle(\"Sound checker\")  # Title\n        self.mainWindow.resize(1100, 500)  # Size\n\n        # キャンパス\n        centralWid = QtGui.QWidget()\n        self.mainWindow.setCentralWidget(centralWid)\n\n        # 全体レイアウト設定\n        lay = QtGui.QHBoxLayout()\n        centralWid.setLayout(lay)\n\n        # リンク表示用ウィジット\n        pg.setConfigOption('background', 'w')\n        pg.setConfigOption('foreground', (50, 50, 50))\n        specWid = pg.PlotWidget(name=\"spectrum\")\n        self.specItem = specWid.getPlotItem()\n        specWid.setMinimumHeight(500)\n        specWid.setMaximumHeight(500)\n        specWid.setMinimumWidth(500)\n        specWid.setMaximumWidth(500)\n\n        specWid.setLabel('bottom', 'Frequency [Hz]')\n        specWid.setLabel('left', 'Power [dB]')\n        specWid.showAxis('right')\n        specWid.showAxis('top')\n\n        #specWid.showGrid(x=True, y=True)\n        # y軸方向に動かせなくする\n        self.specItem.setMouseEnabled(x=False)\n        self.specItem.setMouseEnabled(y=False)\n        self.specItem.setXRange(0, 8000)\n        self.specItem.setYRange(-80, 20)\n\n        lay.addWidget(specWid)\n\n        # ウインドウ表示\n        self.mainWindow.show()\n\n    def drawLogspec(self, fscale, logspec):\n        self.specItem.plot(\n            fscale, logspec, pen='m', symbol='o',\n            symbolPen='k', symbolBrush='m', symbolSize=0, clear=True)\n        QtGui.QApplication.processEvents()\n\n\n# ウィジェットの表示・読込み用スレッド\nclass WidgetViewThread(Thread):\n\n    def __init__(self, shared_obj1, shared_obj2, shared_obj3=None):\n        super(WidgetViewThread, self).__init__()\n        # 複数のスレッドで共有されるオブジェクトを受け取る\n        self.cur_linkage = shared_obj1\n        self.dst_linkage = shared_obj2\n        self.yarp_client = shared_obj3\n\n        self.daemon = True\n\n    def run(self):\n        # print repr(cur_linkage.getAngs())\n        app = QtGui.QApplication(sys.argv)\n        ex = Widget(self.cur_linkage, self.dst_linkage)\n        sys.exit(app.exec_())\n\n\n# plt.figure()\n\nCHUNK = 1024\nRATE = 44100\nNFFT = 2048\np = pyaudio.PyAudio()\n\napp = QtGui.QApplication(sys.argv)\nex = Widget()\n\nCalculater = Soundcalculater()\n\nstream = p.open(format=pyaudio.paInt16,\n                channels=1,\n                rate=RATE,\n                frames_per_buffer=CHUNK,\n                input=True,\n                output=True)\n\nwhile stream.is_active():\n    print \"-------------------------------------\"\n    start = time.time()\n\n    input = stream.read(CHUNK)\n    input = np.frombuffer(input, dtype=\"int16\") / 32768.0\n\n    elapsed_time = time.time() - start\n    print (\"input_fin:{0}\".format(elapsed_time)) + \"[sec]\"\n\n    Calculater.calc(input, RATE, NFFT, 48, 250)\n    fscale, logspec = Calculater.getLogspec()\n    elapsed_time = time.time() - start\n    print (\"calcl_fin:{0}\".format(elapsed_time)) + \"[sec]\"\n\n    ex.drawLogspec(fscale, logspec)\n    #output = stream.write(input)\n\n    elapsed_time = time.time() - start\n    print (\"draws_fin:{0}\".format(elapsed_time)) + \"[sec]\"\n\nsys.exit(app.exec_())\n\nstream.stop_stream()\nstream.close()\np.terminate()\n\nprint \"Stop Streaming\"\n",
+					"settings":
+					{
+						"buffer_size": 7790,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/spec.py",
+					"settings":
+					{
+						"buffer_size": 2209,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/src/recAudio.py",
+					"settings":
+					{
+						"buffer_size": 4267,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/ExtractCenterOfWaveFileInFolder.py",
+					"settings":
+					{
+						"buffer_size": 2829,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawWav_spector.py",
+					"settings":
+					{
+						"buffer_size": 643,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphWithThreadTest.py",
+					"settings":
+					{
+						"buffer_size": 62512,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/src/soketConnect.py",
+					"settings":
+					{
+						"buffer_size": 1809,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.py",
+					"settings":
+					{
+						"buffer_size": 15006,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 150.0,
+				"height": 392.0,
 				"selected_items":
 				[
 					[
-						"insta",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"install",
+						"package control disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
 						"Package Control: Install Package"
 					],
 					[
@@ -1498,108 +1770,134 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Tomohiro.Kojima/Downloads/Lingua_YarpTextMsg.txt",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/linguaMaestro.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/__init__.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/test/yarpClientTest.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/test/checkAudioDevicesTest.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/recAudio.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/yarpClient.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/YarpTextMsgServer.cpp",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/soketConnect.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/yarpClientTest.py",
-				"/C/_MyProgram/Vocal/Lingua/Maestro/recAudioTest.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/csvRead.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/yarpClientTest.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/vcTest.csv",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/vtTest.csv",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/makeLinguaCtrl.py",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/makeLinguaCtrl.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarp_tcl.sd",
-				"/C/Users/Tomohiro.Kojima/Dropbox/Py/re",
-				"/C/_MyProgram/Vocal/Noblib/Util/Curses.hpp",
-				"/C/_MyProgram/Vocal/Noblib/LIB/include/curses.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.h",
-				"/C/Users/Tomohiro.Kojima/Documents/recAudio.py",
-				"/C/Users/Tomohiro.Kojima/Documents/tongueTest.csv",
-				"/C/Users/Tomohiro.Kojima/Documents/linguaExperiment.py",
-				"/C/Users/Tomohiro.Kojima/Documents/csvRead.py",
-				"/C/Users/Tomohiro.Kojima/Documents/yarpClientTest.py",
-				"/C/Users/Tomohiro.Kojima/Documents/yarpClient.py",
-				"/C/Users/Tomohiro.Kojima/Documents/recAndPlay.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/YarpTextMsgServer.h",
-				"/C/Users/Tomohiro.Kojima/Documents/sample_.py",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Pep8Lint.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Pep8Lint/Pep8Lint.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Pep8Lint/Default (Windows).sublime-keymap",
-				"/C/Users/Tomohiro.Kojima/Documents/sample5.py",
-				"/C/Users/Tomohiro.Kojima/Downloads/00README-ja.txt",
-				"/C/Users/Tomohiro.Kojima/Downloads/comment-7.txt",
-				"/C/_MyProgram/Vocal/Noblib/Sound/test/waveinTest.cpp",
-				"/C/Users/Tomohiro.Kojima/Documents/sample4.py",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimit.h",
-				"/C/Users/Tomohiro.Kojima/Documents/sample3.py",
-				"/C/Users/Tomohiro.Kojima/Documents/sample2.py",
-				"/C/Users/Tomohiro.Kojima/Documents/sample.py",
-				"/C/Users/Tomohiro.Kojima/Anaconda2/Lib/site-packages/matplotlib/mpl-data/matplotlibrc",
+				"//192.168.5.203/disk/RESEARCH/Vocal/THESIS/2015_M2_Kojima/README.txt",
+				"//192.168.5.203/disk/RESEARCH/Vocal/THESIS/2015_M2_Kojima/Presentation/README.txt",
+				"//192.168.5.203/disk/RESEARCH/Vocal/CAD/Solid/README.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample5.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample5.pyc",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/src/test/recAudioTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternRead.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaViewer.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaMaestro2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaMaestro2_.py",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.h",
-				"/C/2015-10-25_CryingCalc/_Praat/clearinfo_7.praat",
-				"/C/2015-10-25_CryingCalc/RecData/6MoA/result.txt",
-				"/C/2015-10-25_CryingCalc/_Praat/get_formant_pow.praat",
-				"/C/2015-10-25_CryingCalc/_Praat/get_formant.praat",
-				"/C/2015-10-25_CryingCalc/RecData/6MoA/06m01d-1_hungry_058.wav.txt",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.mk",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/ExtractCenterOfWaveFileInFolder.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPCInFolderwithOther.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/levinson_durbin.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPC.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawLPC_solo.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawWav_spector.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/drawWav.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/AnaData/01-27-28_trimed_7000/rename_for_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/plot_all.plt",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/plot.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/do_praat.bat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/memo",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Thesis/Sadoku/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/____Toyota/Memo.md",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/vowel_kuhlmelt.csv",
+				"/C/Users/Tomohiro.Kojima/Dropbox/_Vocal/_bak/RSJ_Voice_WAVE_bak/20140617NC/20140617/Pitch.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/README.md",
+				"//192.168.5.203/disk/RESEARCH/Vocal/THESIS/2014_M2_Yoshida/2015-02_Yoshida_Tongue_Camera/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/README.txt",
+				"/C/Users/Tomohiro.Kojima/Dropbox/2016-02-01_Thesis/Data/01_TubeModel/新しいテキスト ドキュメント.txt",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/trim.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/_Praat/split2.py",
+				"/C/SPTK-3.9/unistd.h",
+				"/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc/RecData/rename_for_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/get_formant.praat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/do_praat.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/plot.bat",
+				"/C/Users/Tomohiro.Kojima/Downloads/2015-10-28_CryingCalc/_Praat/mfcc.praat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphWithThreadTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheck.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPythonTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result2.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/result3.txt",
+				"/C/_MyProgram/Vocal/Lingua/Maestro/src/patternRead.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker/0_-10_70_5_40_-13_75_45_0_0_0_0_0_0_0_0_1_1_5_1_5_1_5_5/0_-2_10_2_10_-2_10_10/0_-2_10_2_10_-2_10_10_result.txt",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/multiThreadTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimitCalc.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/README.md",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClientTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/soketConnect.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TongueLimit.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheckViewer.py",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/LipMovement.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/RevoluteJoint.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activity.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/linguaCtrl.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitTest.h",
-				"/C/Users/Tomohiro.Kojima/Dropbox/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/DataTypes.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/Angle.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueCfg.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/TomokiVc.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/JointConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/JointConfiguration.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/DeviceConfiguration.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/DeviceConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Device/DcMotorConfiguration.cpp",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.cpp",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
-				"/C/cygwin64/usr/include/wchar.h",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
-				"/C/2015-10-25_CryingCalc/AnaData/3MoA_8000_1000/03m03d-1_hungry_058_8000_p1000_for.dat",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/make.bat",
-				"/C/_MyProgram/Vocal/WT_Control/Mecha.h",
-				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechaPropTest.h",
-				"/C/_MyProgram/Vocal/Noblib/Device/test/cntTest.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/widget.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/makeLinguaCtrl.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/graph.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtSample.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/matplotlibSample2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/matplotlibSample.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample2.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qt_mpl_data.csv",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qt_mpl_dataplot.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/qwt_dataplot.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/main_mpl_tutorial.py",
+				"/C/Users/Tomohiro.Kojima/Downloads/mplwidget.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/pyqtgrashSample.py",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/qt/qt4/hello/arrow.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/generate/a.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/libraries/app/app.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/variant/a.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/customization/codegen.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/hello/hello.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/make/main_cpp.pro",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/python_helpers.py",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/tutorial/hello.cpp",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/tutorial/Jamroot",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/boost-build.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/example/boost-build.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/readme.txt",
+				"/C/Users/Tomohiro.Kojima/user-config.jam",
+				"/C/boost_1_60_0/user-config.jam",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/test.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternPython.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/mechanicalPropertyPyTest.py",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/test.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/tongueLimitPy.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.h",
+				"/C/user-config.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/python_modules/jamroot.jam",
+				"/C/Users/Tomohiro.Kojima/Anaconda2/pkgs/boost-1.57.0-0/Library/share/boost-build/example/hello/readme.txt",
+				"/C/boost_1_60_0/libs/python/example/quickstart/boost-build.jam",
+				"/C/boost_1_60_0/libs/python/example/tutorial/Jamroot",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternCheckerDll.bat",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.cpp",
 				"/C/_MyProgram/Vocal/Noblib/Robotics/test/jointCfgTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Util/test/matTest.mk",
-				"/C/_MyProgram/Vocal/Noblib/Util/PGFrame.h",
-				"/C/_MyProgram/Vocal/Noblib/Util/test/matTest.cpp",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Set_up.h",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Voice_set.h",
-				"/C/_MyProgram/Vocal/WT_Control/Speak2/Word_Set.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activity.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker_.lib",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.lib",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.dll",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/patternChecker.dll",
+				"/C/_MyProgram/Vocal/Noblib/COMMON.mk",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.h",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dllhello.obj",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/dlpatternChecker.dll",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/test/main.c",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/MechanicalProperty_Python.mk",
+				"/C/_MyProgram/Vocal/Noblib/Util/Event.h",
+				"/C/_MyProgram/Vocal/Noblib/Network/test/sdcEvTest.cpp",
 				"/C/_MyProgram/Vocal/Noblib/Util/test/evTest.cpp",
-				"/C/Users/Tomohiro.Kojima/src/Test.cpp",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/C++.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/SublimeAStyleFormatter.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/src/Test.h",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Terminal.sublime-settings",
-				"/C/Users/Tomohiro.Kojima/AppData/Roaming/Sublime Text 2/Packages/User/Terminal (Windows).sublime-settings"
+				"/C/_MyProgram/Vocal/Noblib/Network/Socket.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Network/SharedData.h",
+				"/C/_MyProgram/Vocal/Noblib/Network/SharedData.cpp",
+				"/C/Users/Tomohiro.Kojima/boost_version.cpp",
+				"/C/_MyProgram/Vocal/Noblib/Robotics/Activities/boost_thread.cpp"
 			],
 			"find":
 			{
@@ -1614,108 +1912,137 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
-					"d",
-					"yarp_lg",
-					"sendAndGetStr",
-					"vmo",
+					"lock",
+					"Widget",
+					"View",
+					"Widget",
+					"#####\n",
+					"\n    ",
+					"fs",
 					"()\n",
-					"vt",
-					"lung",
-					"th_",
-					"th",
-					"y_vt",
-					"y_lung",
-					"getFloatByName",
-					"getPatternById",
-					"):\n",
-					"send_str",
-					"__slistToflist",
-					"__slist_to_flist",
-					"listtostr",
-					"()\n",
-					"            ",
-					")\n",
-					"0",
-					"__mSourceWav",
-					"F",
-					".s.send",
-					"close",
-					"self.s.close()",
-					"draw_sec",
-					"self.data",
-					"plot_data",
-					"num_frame",
-					"frames",
-					"WXAgg",
-					"backend",
-					"7000",
-					"7",
-					"f_mean2",
-					"5",
-					"getRRadian",
-					"getRadian",
-					"getRRadian",
-					"get",
+					"plot",
+					"plt",
+					"vel",
+					"．",
+					"，",
+					" ",
+					"join",
+					"．",
+					"，",
+					"．",
+					"wavread",
+					"center",
+					"64",
+					"65",
+					"\\\\",
+					"/",
+					"\\",
+					"．",
+					"，",
+					"timer",
+					"time",
+					"join",
+					"dst_link",
+					"self.",
+					"self",
+					"> 0 ?",
+					"/LD",
+					"cl",
+					"DEBUG",
+					"t2",
+					"WidgetViewThread",
+					"self.DEBUG_LUNG",
+					"ForEach",
+					"FoeEach",
+					"Control",
+					"raw",
+					"wait",
+					"right",
+					"]",
+					"l[",
+					"list",
+					"l",
+					"setVelsAs",
+					"setPoss",
+					"stop",
+					"stopF",
+					"stop",
+					"Each",
+					"each",
+					"dst",
+					"(cur_linkage",
+					"yarp",
+					"label",
+					"plt",
+					"csv",
+					"rpose",
+					"ang",
+					"png_name",
+					"3",
+					"-3",
+					"o",
+					"n",
+					"m",
+					"l",
+					"k",
+					"j",
+					"i",
+					"1",
+					"02",
+					"{",
+					"cerr",
+					"catch",
+					"throw",
+					"1000",
+					"self.tmp_angles",
+					"setTipBackPos",
+					"calcInvKinematics",
+					"atan2",
+					"calcInvKinematics",
+					"calcInv",
+					"calc",
+					"refresh",
+					"- 20",
+					"+ 20",
+					"+20",
+					"1000",
+					"t1",
+					"cerr",
+					"throw",
+					"setTipBackJaw",
+					"throw",
+					"FromTipBack",
+					"setTipBackJaw",
+					"setTipBack",
+					"setTipBackJawConsiderPos",
+					"setTipBackJaw",
+					"what",
+					"b2c2",
+					"what",
+					"b2c2",
+					"b2",
 					"set",
-					"setRAng",
-					"setAng",
-					"setROffAng",
-					"cout",
-					"RTOS",
-					"t_ang_",
-					"POS[3",
-					"45",
-					"set",
-					"endl",
-					"setAng",
-					"max",
-					"set",
-					"Interence",
-					"acos",
-					"Util::",
-					"Util::Angle tongue_ct ",
-					"( Util::Angle jaw, Util::Angle tongue_ar, Util::Angle tongue_at, Util::Angle tongue_br,\n                      Util::Angle tongue_bt, Util::Angle tongue_cr, Util::Angle tongue_ct )",
-					"jaw",
-					"_f",
-					"R",
-					"_B",
-					"r_ang",
-					"_r",
-					"}\n",
-					"max",
-					"+ ",
-					"static const",
-					"const static",
-					"const",
-					"FR",
-					"private",
-					"10",
-					"_b",
-					"));",
-					"Front",
-					"pos[3]",
-					"pos[3",
-					"len_",
-					"t_2",
-					"t_1",
-					"const",
-					" *",
-					"at(",
-					"push_back",
-					"5",
-					"p",
-					"p[",
-					"6",
-					"Set",
-					"SetAng",
-					"xyz",
-					"SetAng",
-					"3d",
-					"Noblib::Util",
-					"Takalib"
+					"setAngleOnly",
+					"must",
+					"100",
+					"/100",
+					"*100",
+					"100",
+					"2)",
+					"2))",
+					"round",
+					"*10",
+					"/10",
+					"*10",
+					"dst",
+					"Text",
+					"cy",
+					"->Jaw",
+					".Jaw",
+					"Offset"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1723,71 +2050,1231 @@
 				"regex": false,
 				"replace_history":
 				[
-					"sendAndReceiveStr",
-					"vc",
-					"lg",
-					"thread_",
-					"thread",
-					"yarp_vt",
-					"yarp_lg",
-					"sendAndGetStr",
-					"__slistToFlist",
-					"__slistToflist",
-					"__listtostr",
-					"p",
-					"):\n",
-					".send_str",
+					"。",
+					"、",
 					"",
-					"CHUNK",
-					"getRRadianAbs",
-					"Interference",
+					"。",
+					"、",
+					"。",
+					"wavRead",
+					"point",
+					" #/",
+					"/\n/",
+					"\n/",
+					"\\\\",
+					"/",
+					"。",
+					"、",
+					"self.dst_link",
 					"",
-					"Util::Angle tongue_ctr, Util::Angle tongue_ctl",
-					"_c",
-					"L",
-					"_C",
-					"r_ang_f",
-					"_fr",
-					"const",
-					"static const",
-					"const static",
-					"B",
-					"C",
-					"FL",
-					"_f",
-					"Back",
-					"pos[4]Back",
-					"pos[4]",
-					"len",
-					"t2",
-					"t1",
+					"> DELTA ?",
+					"csl",
+					"])",
+					"float(l[",
+					"l",
+					"list",
+					"self.dst",
+					"(self.cur_linkage",
+					"range",
+					"pos",
+					"5",
+					"0",
+					"i[6]",
+					"i[5]",
+					"i[4]",
+					"i[3]",
+					"i[2]",
+					"i[1]",
+					"i[0]",
+					"3",
+					"03",
+					"100",
+					"- 15",
+					"+ 15",
+					"+15",
+					"100",
+					"1000",
+					"/1000",
+					"*1000",
+					"3)",
+					"3))",
+					"",
+					"cur",
+					"Value",
+					"cang",
+					"JawBase",
+					"jawbase",
+					"scl2",
+					"JawBase",
+					"jawBasePos",
+					"scl2",
+					"",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"ctf",
+					"ctb",
+					"cr",
+					"bt",
+					"br",
 					"at",
-					"set",
-					"2d",
-					"Util",
-					"Noblib"
+					"setValue",
+					"int",
+					"Interval",
+					"",
+					"setTickPosition",
+					"slider",
+					"float(self",
+					"text())",
+					"float(",
+					"text",
+					"dst",
+					"ay",
+					"ax",
+					"by",
+					"bx",
+					"Cy",
+					"cy",
+					"cx",
+					"output_mode",
+					"right",
+					"cur",
+					"getLipDisplaces",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"getLipDisplaces",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"orbicb",
+					"orbict",
+					"mental",
+					"buccir",
+					"buccil",
+					"OrbicB",
+					"OrbicT",
+					"self",
+					"delf.cur",
+					"delf.dst",
+					"Br"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"groups":
 			[
 				{
+					"selected": 4,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawLPCInFolderwithOther.py",
+							"settings":
+							{
+								"buffer_size": 6394,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										509,
+										509
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawLPCInFolder.py",
+							"settings":
+							{
+								"buffer_size": 5134,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3290,
+										3290
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/RealTimeLpc.py",
+							"settings":
+							{
+								"buffer_size": 4152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1908,
+										1800
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 252.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/CalcFormant",
+							"settings":
+							{
+								"buffer_size": 7862,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1706,
+										1706
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3343.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/test2.py",
+							"settings":
+							{
+								"buffer_size": 1670,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										480,
+										435
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "# -*- coding:utf-8 -*-",
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"settings":
+							{
+								"buffer_size": 7790,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7790,
+										7790
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2787.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/spec.py",
+							"settings":
+							{
+								"buffer_size": 2209,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										990,
+										990
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 351.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/src/recAudio.py",
+							"settings":
+							{
+								"buffer_size": 4267,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										593,
+										593
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/ExtractCenterOfWaveFileInFolder.py",
+							"settings":
+							{
+								"buffer_size": 2829,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										610,
+										610
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Users/Tomohiro.Kojima/Downloads/2016-01-27_Calc_FULL/_Praat/drawWav_spector.py",
+							"settings":
+							{
+								"buffer_size": 643,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										156,
+										156
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 11,
+							"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/pyQtGraphWithThreadTest.py",
+							"settings":
+							{
+								"buffer_size": 62512,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										61332,
+										61332
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 18960.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/src/soketConnect.py",
+							"settings":
+							{
+								"buffer_size": 1809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/_MyProgram/Vocal/Noblib/Robotics/test/yarpClient.py",
+							"settings":
+							{
+								"buffer_size": 15006,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1024,
+										980
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 22.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"layout":
 			{
@@ -1798,11 +3285,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
@@ -1818,13 +3312,13 @@
 			},
 			"output.clang":
 			{
-				"height": 100.0
+				"height": 111.0
 			},
 			"output.exec":
 			{
-				"height": 310.0
+				"height": 178.0
 			},
-			"position": "0,0,1,-1,-1,-1,-1,828,0,89,960",
+			"position": "0,2,1,-32000,-32000,-1,-1,789,802,75,1920",
 			"replace":
 			{
 				"height": 62.0
@@ -1852,7 +3346,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
-			"window_id": 2,
+			"window_id": 22,
 			"workspace_name": ""
 		}
 	],

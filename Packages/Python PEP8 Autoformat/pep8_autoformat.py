@@ -40,8 +40,8 @@ print('Included directory to sys.path :', PPA_PATH)
 [sys.path.insert(0, p) for p in PPA_PATH if p not in sys.path]
 
 try:
-    import autopep8
-    import MergeUtils
+    import ppaautopep8 as autopep8
+    import ppaMergeUtils as MergeUtils
 except:
     sublime.error_message(
         '{0}: import error: {1}'.format(PLUGIN_NAME, sys.exc_info()[1]))

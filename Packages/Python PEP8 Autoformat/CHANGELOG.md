@@ -2,8 +2,12 @@
 
 ## Python PEP8 Autoformat
 
+### 2016.01.08-01
+  - Avoid import path conflict [Issue #25](https://bitbucket.org/StephaneBunel/pythonpep8autoformat/issues/25/importerror-cannot-import-name)
+  - Upgrade autopep8 to version 1.2.1
+
 ### 2015.10.02-01
-  - Upgrade autopep8 to version 1.2.1 to fix [Issue #23 Goes into infinite loop when formatting this 'incorrect' code](https://bitbucket.org/StephaneBunel/pythonpep8autoformat/issues/23/goes-into-infinite-loop-when-formatting). Thx to Bharadwaj Srigiriraju.
+  - Upgrade autopep8 to version 1.2.1a0 to fix [Issue #23 Goes into infinite loop when formatting this 'incorrect' code](https://bitbucket.org/StephaneBunel/pythonpep8autoformat/issues/23/goes-into-infinite-loop-when-formatting). Thx to Bharadwaj Srigiriraju.
   - Upgrade pep8 to version 1.6.2.
 
 ### 2014.10.17-01

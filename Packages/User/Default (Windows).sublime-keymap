@@ -1,2 +1,1 @@
-[
-]
+{ "keys": ["super+ctrl+]"], "command": "reindent", "args": { "single_line": false }}
